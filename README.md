@@ -1,5 +1,5 @@
 # NCAA-Basketball-Analytics
-DA665 Final Project
+DA665 Neel Ganta Final Project
 
 #### The goal of this project is to determine the factors that have led to team success in the past, and to try and determine what factors may lead to such success in the future.
 
